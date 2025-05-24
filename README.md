@@ -73,32 +73,32 @@ Each folder contains a modular service class for handling business logic related
 ## 🖼️ Postman Screenshots
 
 ### 📦 List of Products
-![alt text](/img/1.png)
+![alt text](/backend/img/1.png)
 
 ### 🔍 Particular Product
-![alt text](/img/2.png)
+![alt text](/backend/img/2.png)
 
 ### 📝 User Registration
-![alt text](/img/3.png)
+![alt text](/backend/img/3.png)
 
 ### 🔐 User Login
-![alt text](/img/4.png)
+![alt text](/backend/img/4.png)
 
 ### 🛒 Add to Cart
-![alt text](/img/5.png)
+![alt text](/backend/img/5.png)
 
 ### 🧾 View Cart
-![alt text](/img/6.png)
-![alt text](/img/7.png)
+![alt text](/backend/img/6.png)
+![alt text](/backend/img/7.png)
 
 ### ✅ Place Order
-![alt text](/img/8.png)
+![alt text](/backend/img/8.png)
 
 ### 📜 View Orders
-![alt text](/img/9.png)
+![alt text](/backend/img/9.png)
 
 ### 💳 Payment Success
-![alt text](/img/10.png)
+![alt text](/backend/img/10.png)
 
 ---
 
