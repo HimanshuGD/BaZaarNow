@@ -88,16 +88,16 @@ Each folder contains a modular service class for handling business logic related
 ![alt text](/backend/postman/5.png)
 
 ### 🧾 View Cart
-![alt text](/backend/postman/7.png)
+![alt text](/backend/postman/6.png)
 
 ### ✅ Place Order
-![alt text](/backend/postman/8.png)
+![alt text](/backend/postman/7.png)
 
 ### 📜 View Orders
-![alt text](/backend/postman/9.png)
+![alt text](/backend/postman/8.png)
 
 ### 💳 Payment Success
-![alt text](/backend/postman/10.png)
+![alt text](/backend/postman/9.png)
 
 ---
 
